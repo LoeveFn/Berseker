@@ -27,7 +27,7 @@ using the same algorithm as Berserker, but it's more advanced.
 ### <p align="center">📋 Examples 📋</p>
 
 <br><br>
-**Unobfuscated**:<br>
+**Deobfuscated**:<br>
 ```python3
 input("Hello there!")
 ```
@@ -112,4 +112,4 @@ Berserker(_encode=False,_sparkle='''928832|928837|928839|928844|928843|928768|92
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center">loeve#0001</p>
