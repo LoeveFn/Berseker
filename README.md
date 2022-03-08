@@ -11,11 +11,11 @@
 <br><br>
 <p align="center">
 <strong>
-An unique Python3 obfuscator using <a href="https://github.com/billythegoat356/Kyrie-Eleison">Kyrie Eleison</a>'s
+An unique Python3 obfuscator using <a href="">Kyrie Eleison</a>'s
 <br>
 encryption protocol, written in Python3.
 <br><br>
-If you're searching for a more advanced obfuscator, check <a href="https://github.com/billythegoat356/Kramer">Kramer</a>, it's
+If you're searching for a more advanced obfuscator, check <a href="https://github.com/LoeveFn/Kramer">Kramer</a>, it's
 <br>
 using the same algorithm as Berserker, but it's more advanced.
 </strong>
